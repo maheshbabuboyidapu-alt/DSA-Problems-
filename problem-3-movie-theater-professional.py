@@ -112,23 +112,33 @@ print(f"Price after time adjustment: ${price}")
 # Step 3: Apply Group Discount
 # -------------------------------
 
-g_dis = 0
-dis = None
+g_dis = 0  # Discount amount (initially 0)
+dis = None # Discount percentage (initially None)
+
+# Determine discount tier based on ticket quantity
+if n < 5:
+    # Less than 5 tickets: No group discount
+    pass
+elif n >= 5 and n < 10:
+    # 5-9 tickets: 10% discount
+    g_dis = price * per10
+    dis = per_10
+elif n >= 10 and n < 20:
+    # 10-19 tickets: 15% discount
+    g_dis = price * per15
+    dis = per_15
+elif n >= 20:
+    # 20+ tickets: 20% discount (maximum discount)
+    g_dis = price * per20
+    dis = per_20
+
+# Display group discount result
 if n < 5:
     print("Group discount: None")
-elif n > 4 and n < 10:
-    g_dis += price * per10
-    dis = per_10
-    print(f"Group discount: {dis}% = ${g_dis}")
-elif n > 9 and n < 20:
-    g_dis += price * per15
-    dis = per_15
-    print(f"Group discount: {dis}% = ${g_dis}")
-elif n >= 20:
-    g_dis += price * per20
-    dis = per_20
+else:
     print(f"Group discount: {dis}% = ${g_dis}")
 
+# Apply discount to price
 price -= g_dis
 print(f"Price after group discount: ${price}")
 
