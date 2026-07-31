@@ -1,6 +1,6 @@
-# DSA Problems Solutions
+# Problem Solving & Logic Solutions
 
-Solving Data Structures and Algorithms problems step-by-step.
+Building strong logical thinking and problem-solving foundation before diving into Data Structures & Algorithms.
 
 ## About Me
 
@@ -14,40 +14,47 @@ Solving Data Structures and Algorithms problems step-by-step.
 - **Device:** Mobile only (no laptop yet, planning to acquire by 2027)
 - **Strategy:** Building strong logical foundation first, then scaling with better tools
 - **Philosophy:** Quality over speed; understanding over copying
+- **Current Phase:** Problem-solving & logic (Phase 1), Real DSA coming after data structures mastery
 
 ## Problems Solved
 
-1. **Parking Fee Calculator** - Logic for tiered pricing rates
+1. **Parking Fee Calculator** - Tiered pricing with conditional logic
    - Draft version: First attempt
    - Professional version: Optimized
    - Status: ✅ Completed (10/10 logic)
 
-2. **Bank Interest Calculator** - Interest calculation with multiple tiers
+2. **Bank Interest Calculator** - Multi-tier calculations with stacked conditions
    - Draft version: First attempt
    - Professional version: Optimized
    - Status: ✅ Completed (10/10 logic)
 
-3. **Movie Theater Ticket Pricing** - Complex multi-tier discount system
+3. **Movie Theater Ticket Pricing** - Complex multi-tier discount system with validation
    - Draft version: First attempt
-   - Professional version: Optimized with comments
+   - Professional version: Optimized with comments & input validation
    - Status: ✅ Completed (10/10 logic)
+
+4. **E-Commerce Discount & Shipping Calculator** - Stacked discounts with conditional logic
+   - Coming soon...
 
 ## Learning Progress
 
 - **Timeline:** Learning to code for 4 months (started July 2026)
-- **Current Focus:** DSA easy problems + web development basics
-- **Next Phase:** Medium-level DSA problems + frontend frameworks
-- **By March 2027:** Diploma completion with 20+ DSA problems solved
+- **Current Focus:** Problem-solving logic + Python fundamentals
+- **Next Phase (2027+):** Data Structures (Arrays, Lists, Trees, Graphs) → Real DSA problems
+- **By March 2027:** Diploma completion + Strong logic foundation ready for DSA
+- **By 2030:** Full-stack developer with ₹24 LPA placement
 
 ## Status
 
-Currently solving DSA problems daily while studying for 5th semester exams.
-Building strong logical foundation on mobile constraints.
-Ready to scale exponentially once laptop is acquired.
+Currently solving problem-solving challenges daily while studying for 5th semester exams.
+Building strong logical foundation before diving into actual Data Structures & Algorithms.
+Ready to scale exponentially once laptop is acquired and DSA phase begins.
 
 ## Notes for Recruiters
 
 - All code written independently on mobile device
 - Commit dates prove authentic problem-solving journey
 - Mobile constraint = Extra challenge = Faster skill growth
-- By 2027: Production-ready portfolio with full-stack projects
+- Phase 1: Logic foundation (done by March 2027)
+- Phase 2: Real DSA + Full-stack projects (2027-2030)
+- By 2030: Production-ready portfolio with deployed projects
