@@ -34,13 +34,18 @@ Building strong logical thinking and problem-solving foundation before diving in
    - Status: ✅ Completed (10/10 logic)
 
 4. **E-Commerce Discount & Shipping Calculator** - Stacked discounts with conditional logic
-   - Draft version: First attempt
+   - Draft version: First attempt with validation
    - Professional version: Optimized with comments & validation
    - Status: ✅ Completed (10/10 logic)
 
 5. **Library Fine Calculator** - Tiered fines with multipliers and discounts
    - Draft version: First attempt with validation
    - Professional version: Full documentation, PEP 8 formatting, renamed variables
+   - Status: ✅ Completed (10/10 logic)
+
+6. **Restaurant Bill Calculator** - Tiered taxes, stacked discounts, and flexible tips
+   - Draft version: First attempt with validation
+   - Professional version: Full documentation, PEP 8 formatting, input validation
    - Status: ✅ Completed (10/10 logic)
 
 ## Learning Progress
@@ -55,7 +60,8 @@ Building strong logical thinking and problem-solving foundation before diving in
 
 - Read problem thoroughly → Understand all conditions
 - Break into logical blocks → Handle each independently
-- Test with multiple test cases → Verify correctness
+- Validate inputs → Ensure data quality
+- Calculate step-by-step → Show breakdown of every calculation
 - Optimize → Reduce repetition, improve readability
 - Document → Add comments and professional structure
 
@@ -63,7 +69,7 @@ Building strong logical thinking and problem-solving foundation before diving in
 
 Currently solving problem-solving challenges daily while studying for 5th semester exams.
 Building strong logical foundation on mobile before diving into actual Data Structures & Algorithms.
-DSA mastery planned: now until December 2026 on mobile, then intensive learning with laptop.
+Working toward 10-problem milestone to demonstrate consistency and readiness for DSA mastery.
 Ready to scale exponentially once laptop is acquired and DSA phase begins.
 
 ## Notes for Recruiters
@@ -71,6 +77,6 @@ Ready to scale exponentially once laptop is acquired and DSA phase begins.
 - All code written independently on mobile device
 - Commit dates prove authentic problem-solving journey
 - Mobile constraint = Extra challenge = Faster skill growth
-- Phase 1: Logic foundation (done by March 2027)
+- Phase 1: Logic foundation (targeting 10 problems by Dec 2026)
 - Phase 2: Real DSA + Full-stack projects (2027-2030)
 - By 2030: Production-ready portfolio with deployed projects
