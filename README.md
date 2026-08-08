@@ -48,6 +48,11 @@ Building strong logical thinking and problem-solving foundation before diving in
    - Professional version: Full documentation, PEP 8 formatting, input validation
    - Status: ✅ Completed (10/10 logic)
 
+7. **Employee Salary & Bonus Calculator** - Four-layer stacked calculation (base, bonus, penalty, tax)
+   - Draft version: First attempt with validation
+   - Professional version: Full documentation, PEP 8 formatting, deliberate if/elif/else structure
+   - Status: ✅ Completed (10/10 logic)
+
 ## Learning Progress
 
 - **Timeline:** Learning to code for 4 months (started July 2026)
@@ -70,7 +75,7 @@ Building strong logical thinking and problem-solving foundation before diving in
 Currently solving problem-solving challenges daily while studying for 5th semester exams.
 Building strong logical foundation on mobile before diving into actual Data Structures & Algorithms.
 Working toward 10-problem milestone to demonstrate consistency and readiness for DSA mastery.
-Ready to scale exponentially once laptop is acquired and DSA phase begins.
+7 of 10 problems complete. Ready to scale exponentially once laptop is acquired and DSA phase begins.
 
 ## Notes for Recruiters
 
